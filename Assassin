@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <title>Kevin Cheng 10-2</title>
+    </head>
+    <body bgcolor="bule" text="yellow">
+         <hr>
+         <hr>
+         <hr>
+         <h1>Assassin!</h1>
+         
+         <hr>
+         
+         <p>Hello <br> World!</p>
+         <img src="sci.png" alt=Assassin" height="800" width="800">
+         <img src="1.gif alt="Turning Gears" height="800" width="800">
+     </body>
+</html>
